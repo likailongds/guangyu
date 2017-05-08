@@ -35,6 +35,7 @@ int findMaxLength(string str)
 	}
 	return cnt;
 }
+//主函数
 int main()
 {
 	string str;
